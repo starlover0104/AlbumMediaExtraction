@@ -1,2 +1,5 @@
 # AlbumMediaExtraction
-Uses the Spotify developer service to provide details to the album pasting to a .txt in the same folder
+
+## Requirements
+- .txt pip installations complete
+- Python Python 3.6.x+
