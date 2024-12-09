@@ -1,7 +1,8 @@
 # AlbumMediaExtraction
 
 This script outputs in a certain format like the image at the bottom
-![Alt text](example.png)
+
+![example:](example.png)
 
 ## Requirements
 - .txt pip installations complete
